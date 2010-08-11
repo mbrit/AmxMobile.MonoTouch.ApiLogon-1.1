@@ -1,0 +1,9 @@
+*~
+*.userprefs
+*.pidb
+*.exe
+*.dll
+*.log
+.simlauncher*
+*.mdb
+

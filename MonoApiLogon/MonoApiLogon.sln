@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoApiLogon", "MonoApiLogon.csproj", "{3046334D-41EC-4B0D-8103-0095689A0998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3046334D-41EC-4B0D-8103-0095689A0998}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3046334D-41EC-4B0D-8103-0095689A0998}.Debug|iPhone.Build.0 = Debug|iPhone
+		{3046334D-41EC-4B0D-8103-0095689A0998}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3046334D-41EC-4B0D-8103-0095689A0998}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3046334D-41EC-4B0D-8103-0095689A0998}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3046334D-41EC-4B0D-8103-0095689A0998}.Release|iPhone.Build.0 = Release|iPhone
+		{3046334D-41EC-4B0D-8103-0095689A0998}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3046334D-41EC-4B0D-8103-0095689A0998}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MonoApiLogon.csproj
+	EndGlobalSection
+EndGlobal
